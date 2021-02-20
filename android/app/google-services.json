@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690177752239",
+    "firebase_url": "https://flutterdemo-b301f.firebaseio.com",
+    "project_id": "flutterdemo-b301f",
+    "storage_bucket": "flutterdemo-b301f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690177752239:android:d3fd642613371425b5685a",
+        "android_client_info": {
+          "package_name": "com.example.covid_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690177752239-2bk01ct516t554v9nmfaekmifkke12l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDeyvxbFIQht74s4YFBWpTmSiJJpVJMSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690177752239-2bk01ct516t554v9nmfaekmifkke12l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
